@@ -30,7 +30,7 @@ client.user.setStatus("dnd")
 
 
 
-c
+
 
 
 
